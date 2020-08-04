@@ -18,6 +18,7 @@ class node
 		void dup_remove();	//delete the duplicate elements 
 		void rev_el();	// reversing using elements transfer
 		void rev_rl();	//reversing using sliding links
+		void rev_re(node *p, node *q);  //reversing using recursion
 }*head;
 void node::rev_rl()
 {
@@ -226,6 +227,18 @@ void node:: inserte(int d)
 	t->next=NULL;
 	}
 }
+void node:: rev_re(class node *q,class node *p)
+{
+	if(p!=NULL)
+	{
+		rev_re(p,p->next);
+		p->next=q;
+	}
+	else
+	{
+	head=q;
+	}
+}
 int* arr(int n)
 {
 	int *a;
@@ -286,7 +299,7 @@ int main()
 		n.del(pl);
 		break;
 		case 9:
-		cout<<endl<<"reversing"<<endl<< "1)using element transfer"<<endl<<"2)using sliding links"<<endl;
+		cout<<endl<<"reversing"<<endl<< "1)using element transfer"<<endl<<"2)using sliding links"<<endl<<"3)using recursion"<<endl;
 		int ch;
 		cin>>ch;
 		switch (ch)
@@ -297,6 +310,9 @@ int main()
 		case 2:
 			n.rev_rl();
 			break;
+		case 3:
+		n.rev_re(NULL,head);
+		break;
 		default:
 			break;
 		}
