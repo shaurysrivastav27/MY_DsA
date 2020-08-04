@@ -80,7 +80,7 @@ void node :: del(int da)
     }
     if(l==1)
     {
-        cout<<endl<<"data not in list"<<endl;
+        cout<<endl<<"data not in list"<<endl<<endl;
     }
 }
 int * arr(int n)
