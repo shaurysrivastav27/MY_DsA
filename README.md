@@ -9,8 +9,8 @@
 #### displaying
 #### reversing of linked-list
 # circular linked-list
-## create
-## delete
-## insert
-## display
-## check loop
+### create
+### delete
+### insert
+### display
+### check loop
