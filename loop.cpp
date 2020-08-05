@@ -1,6 +1,4 @@
 //extension fucntion to check if linked list is a loop or not//
-#include<bits/stdc++.h>
-using namespace std;
 void loop()
 {
   struct node *p,*q;  
