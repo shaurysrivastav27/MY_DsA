@@ -14,3 +14,9 @@
 ### insert
 ### display
 ### check loop
+# doubly linked list
+### create
+### search
+### delete
+### insert
+# stacks
