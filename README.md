@@ -25,3 +25,10 @@
 ### delete //in making
 ### display
 # stacks
+# queues
+# trees
+# graph
+# sorting
+# hashmaps
+# searching
+
