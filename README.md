@@ -19,4 +19,9 @@
 ### search
 ### delete
 ### insert
+# circular doubly
+### create
+### insert //in making
+### delete //in making
+### display
 # stacks
