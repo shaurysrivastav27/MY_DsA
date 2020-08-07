@@ -25,6 +25,18 @@
 ### delete //in making
 ### display
 # stacks
+## array
+### create
+### push 
+### display
+### isEmpty 
+### isFull 
+### pop
+## linkedlist
+### push(create)
+### pop(del)
+### count
+### display
 # queues
 # trees
 # graph
