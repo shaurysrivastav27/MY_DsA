@@ -41,6 +41,10 @@
 # trees
 # graph
 # sorting
+### insertion
+### merge
+### selection
+### bubble
 # hashmaps
 # searching
 
