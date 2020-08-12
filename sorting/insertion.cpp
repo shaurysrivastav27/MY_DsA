@@ -12,12 +12,12 @@ int main()
   }
   for(int i=1;i<n;i++)
   {
-    int j=0;
+    int j=i-1;
     int temp=a[i];
     while(temp<a[i] && j>=0)
     {
       a[i+1] = a[i];
-      j++;
+      j--;
      }
      a[j+1] = temp;
   }
