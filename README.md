@@ -47,6 +47,9 @@
 #### dequeue
 #### display
 ### using array with two pointers
+#### enqueue
+#### dequeue
+#### display
 # trees
 # graph
 # sorting
