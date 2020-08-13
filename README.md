@@ -38,6 +38,15 @@
 ### count
 ### display
 # queues
+### using array with one pointer
+#### enqueue
+#### dequeue
+#### display
+### using linkedlist
+#### enqueue
+#### dequeue
+#### display
+### using array with two pointers
 # trees
 # graph
 # sorting
