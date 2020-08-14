@@ -21,8 +21,8 @@
 ### insert
 # circular doubly
 ### create
-### insert //in making
-### delete //in making
+### insert 
+### delete
 ### display
 # stacks
 ## array
