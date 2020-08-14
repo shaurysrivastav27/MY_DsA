@@ -50,6 +50,10 @@
 #### enqueue
 #### dequeue
 #### display
+### circular queueu
+#### enqueue
+#### dequeue
+#### display
 # trees
 # graph
 # sorting
