@@ -2,6 +2,7 @@
 using namespace std;
 int main()
 {
+    /* code */
     int n;
     cin>>n;
     int *a;
@@ -16,7 +17,7 @@ int main()
         {
             if(a[j]<a[j-1])
             {
-                int t = a[j-1];
+                int t = a[j-1]; //replacing temperory var;
                 a[j-1]=a[j];
                 a[j]=t;
             }
@@ -24,7 +25,6 @@ int main()
     }
     for (int i = 0; i < n; i++)
     {
-        /* code */
         cout<<a[i]<<" ";
     }
     return 0;
