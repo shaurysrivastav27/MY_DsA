@@ -1,5 +1,6 @@
 # MY_DsA
-## linked list using class 
+## linked list using class
+#### loop - to check if there's a loop in linked list
 ### all the basic functions like:
 #### create
 #### insert: at end,at head,at given position ,at sorted position
