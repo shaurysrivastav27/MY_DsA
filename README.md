@@ -62,6 +62,7 @@
 ### merge
 ### selection
 ### bubble
+### quick
 # hashmaps
 # searching
 
