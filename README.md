@@ -1,5 +1,5 @@
 # MY_DsA
-## linked list using class
+# linked list singly
 #### loop - to check if there's a loop in linked list
 ### all the basic functions like:
 #### create
