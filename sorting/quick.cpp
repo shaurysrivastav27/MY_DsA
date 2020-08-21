@@ -12,7 +12,7 @@ int partition(int a[],int l,int r)
             swap(a[k],a[i]);
         }
     }
-    swap(a[k],a[r]);
+    swap(a[k+1],a[r]);
     return k+1;
 }
 void quick(int a[],int l ,int r)
