@@ -57,6 +57,10 @@
 #### display
 # trees
 # graph
+# searching
+### linear search
+### binary search
+### ternary search
 # sorting
 ### insertion
 ### merge
