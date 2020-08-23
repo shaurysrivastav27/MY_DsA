@@ -68,5 +68,3 @@
 ### bubble
 ### quick
 # hashmaps
-# searching
-
