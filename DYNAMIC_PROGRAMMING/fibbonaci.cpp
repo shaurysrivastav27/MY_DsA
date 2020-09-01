@@ -10,7 +10,7 @@ long long mat(long long n)//mathematic formula O(1)
     long long a = f;
     return a;
 }
-void create()//dynamic problem approach o(nlogn)
+void create()//dynamic problem approach o(n)
 {
     a=new long long [150];
     a[0]=1;
