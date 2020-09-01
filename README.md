@@ -1,3 +1,7 @@
+# algos
+## dynamic programming
+#### fibbonaci problem
+##### 1) dp approch with function name(fib()) 2) mathematic approach (mat())
 # MY_DsA
 # linked list singly
 #### loop - to check if there's a loop in linked list
