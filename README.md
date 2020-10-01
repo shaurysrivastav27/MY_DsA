@@ -42,6 +42,11 @@
 ### pop(del)
 ### count
 ### display
+## vector
+### push(add)
+### display
+### count
+### pop(delete)
 # queues
 ### using array with one pointer
 #### enqueue
