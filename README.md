@@ -2,6 +2,13 @@
 ## dynamic programming
 #### fibbonaci problem
 ##### 1) dp approch with function name(fib()) 2) mathematic approach (mat())
+##### 2) bitmasking 
+##### 3) min step to 1
+##### 4) bitmasking
+##### 5) nX2 tiling
+##### 6) stair case problem
+##### 7) chef recipe problem
+##### 8) subset sum problem 
 # MY_DsA
 # linked list singly
 #### loop - to check if there's a loop in linked list
