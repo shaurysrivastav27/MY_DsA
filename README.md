@@ -1,7 +1,6 @@
 # algos
 ## dynamic programming
-#### fibbonaci problem
-##### 1) dp approch with function name(fib()) 2) mathematic approach (mat())
+##### 1)fibbonaci problem
 ##### 2) bitmasking 
 ##### 3) min step to 1
 ##### 4) bitmasking
